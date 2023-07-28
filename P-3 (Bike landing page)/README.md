@@ -9,47 +9,47 @@ The electric scooter is an eco-friendly and convenient mode of personal transpor
 
 2. Features
 
-i. Electric Motor: The scooter is equipped with a powerful and efficient electric motor for smooth acceleration and silent operation.
-ii. Long Battery Life: Enjoy extended riding sessions with a high-capacity rechargeable battery.
-iii. Foldable Design: The scooter's foldable design allows for easy storage and portability when not in use.
-iv. LED Display: The intuitive LED display shows speed, battery status, and other important information.
-v. Safety Lights: Built-in front and rear lights enhance visibility and safety, especially during night rides.
-vi. Braking System: The scooter is equipped with a reliable braking system for responsive and safe stops.
-vii. Adjustable Handlebar: Customize the handlebar height to suit your preference and comfort.
+* Electric Motor: The scooter is equipped with a powerful and efficient electric motor for smooth acceleration and silent operation.
+* Long Battery Life: Enjoy extended riding sessions with a high-capacity rechargeable battery.
+* Foldable Design: The scooter's foldable design allows for easy storage and portability when not in use.
+* LED Display: The intuitive LED display shows speed, battery status, and other important information.
+* Safety Lights: Built-in front and rear lights enhance visibility and safety, especially during night rides.
+* Braking System: The scooter is equipped with a reliable braking system for responsive and safe stops.
+* Adjustable Handlebar: Customize the handlebar height to suit your preference and comfort.
 
 3. Specifications
 
-i. Motor Power: [Insert Motor Power (e.g., 250W)]
-ii. Battery Capacity: [Insert Battery Capacity (e.g., 36V 10Ah)]
-iii. Max Speed: [Insert Maximum Speed (e.g., 25 km/h)]
-iv. Range: [Insert Range (e.g., Up to 20 km per charge)]
-v. Charging Time: [Insert Charging Time (e.g., 3-4 hours)]
-vi. Tire Size: [Insert Tire Size (e.g., 8.5 inches)]
-vii. Weight: [Insert Weight (e.g., 12 kg)]
+* Motor Power: [Insert Motor Power (e.g., 250W)]
+* Battery Capacity: [Insert Battery Capacity (e.g., 36V 10Ah)]
+* Max Speed: [Insert Maximum Speed (e.g., 25 km/h)]
+* Range: [Insert Range (e.g., Up to 20 km per charge)]
+* Charging Time: [Insert Charging Time (e.g., 3-4 hours)]
+* Tire Size: [Insert Tire Size (e.g., 8.5 inches)]
+* Weight: [Insert Weight (e.g., 12 kg)]
 
 4. Safety Guidelines
 
-i. Always wear a helmet while riding the electric scooter.
-ii. Observe local traffic rules and regulations.
-iii. Use designated bike lanes or paths whenever possible.
-iv. Avoid riding the scooter in adverse weather conditions.
-v. Check the brakes, tires, and lights regularly for proper functionality.
+* Always wear a helmet while riding the electric scooter.
+* Observe local traffic rules and regulations.
+* Use designated bike lanes or paths whenever possible.
+* Avoid riding the scooter in adverse weather conditions.
+* Check the brakes, tires, and lights regularly for proper functionality.
 
 5. Usage Instructions
 
-i. Charging: Before your first ride, charge the scooter's battery fully using the provided charger.
-ii. Power On/Off: Press the power button to turn the scooter on or off.
-iii. Acceleration: Use the throttle to control the scooter's speed. Gradually increase the speed for a smoother ride.
-iv. Braking: Squeeze the brake lever to apply the brakes. Use both the rear and front brakes for better stopping power.
-v. Folding/Unfolding: To fold the scooter, release the folding latch and fold the handlebar. To unfold, reverse the process.
-vi. LED Display: Monitor the scooter's speed, battery status, and other information on the LED display.
+* Charging: Before your first ride, charge the scooter's battery fully using the provided charger.
+* Power On/Off: Press the power button to turn the scooter on or off.
+* Acceleration: Use the throttle to control the scooter's speed. Gradually increase the speed for a smoother ride.
+* Braking: Squeeze the brake lever to apply the brakes. Use both the rear and front brakes for better stopping power.
+* Folding/Unfolding: To fold the scooter, release the folding latch and fold the handlebar. To unfold, reverse the process.
+* LED Display: Monitor the scooter's speed, battery status, and other information on the LED display.
 
 6. Maintenance
 
-i. Keep the scooter clean and free from debris.
-ii. Regularly check and tighten screws and bolts.
-iii. Lubricate moving parts as recommended in the user manual.
-iv. Store the scooter in a cool, dry place when not in use.
+* Keep the scooter clean and free from debris.
+* Regularly check and tighten screws and bolts.
+* Lubricate moving parts as recommended in the user manual.
+* Store the scooter in a cool, dry place when not in use.
 
 7. Troubleshooting
 

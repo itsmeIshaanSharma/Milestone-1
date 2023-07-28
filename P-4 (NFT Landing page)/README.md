@@ -10,34 +10,34 @@ The landing page is fully responsive and optimized for various devices, ensuring
 
 2. Features
 
-i. Responsive Design: The landing page adapts to different screen sizes and devices for a consistent viewing experience.
-ii. NFT Showcase: Display your NFT collections with images, descriptions, and relevant details.
-iii. Metadata Display: Present NFT metadata, including token ID, creator information, and transaction history.
-iv. Call-to-Action: Include prominent call-to-action buttons for interested users to explore or purchase NFTs.
-v. Artist Bio: Introduce yourself or your team with a short artist biography.
-vi. Contact Form: Provide a contact form for potential buyers or inquiries.
-vii. Social Media Integration: Link to your social media profiles for broader visibility.
+* Responsive Design: The landing page adapts to different screen sizes and devices for a consistent viewing experience.
+* NFT Showcase: Display your NFT collections with images, descriptions, and relevant details.
+* Metadata Display: Present NFT metadata, including token ID, creator information, and transaction history.
+* Call-to-Action: Include prominent call-to-action buttons for interested users to explore or purchase NFTs.
+* Artist Bio: Introduce yourself or your team with a short artist biography.
+* Contact Form: Provide a contact form for potential buyers or inquiries.
+* Social Media Integration: Link to your social media profiles for broader visibility.
 
 3. Installation
 
 To use the NFT Landing Page, follow these steps:
 
-i. Download: Download the landing page files from the repository.
-ii. Customize: Open the HTML and CSS files using a text editor and customize the content, including NFT details, artist bio, and contact information.
-iii. Assets: Replace the placeholder images and logos with your NFT artwork and branding materials.
-iv. Metadata: Ensure that the NFT metadata is accurate and up-to-date.
-v. Upload: Once you've made the necessary changes, upload the files to your web hosting provider or a platform that supports static hosting.
-vi. Domain: Optionally, acquire a custom domain for the landing page for a more professional appearance.
-vii. Access: Share the landing page URL with your audience to showcase your NFT collections.
+* Download: Download the landing page files from the repository.
+* Customize: Open the HTML and CSS files using a text editor and customize the content, including NFT details, artist bio, and contact information.
+* Assets: Replace the placeholder images and logos with your NFT artwork and branding materials.
+* Metadata: Ensure that the NFT metadata is accurate and up-to-date.
+* Upload: Once you've made the necessary changes, upload the files to your web hosting provider or a platform that supports static hosting.
+* Domain: Optionally, acquire a custom domain for the landing page for a more professional appearance.
+* Access: Share the landing page URL with your audience to showcase your NFT collections.
 
 4. Usage
 
 The NFT Landing Page serves as an introduction to your NFT collections and works as a gateway for potential buyers or collectors to explore further. Consider the following tips for an effective landing page:
 
-i. Use high-quality images and engaging descriptions for your NFTs.
-ii. Ensure the page is visually appealing and reflects the theme of your artwork.
-iii. Include clear calls-to-action that lead visitors to the platforms where they can purchase or bid on your NFTs.
-iv.Provide easy access to your social media or other platforms where you engage with your community.
+* Use high-quality images and engaging descriptions for your NFTs.
+* Ensure the page is visually appealing and reflects the theme of your artwork.
+* Include clear calls-to-action that lead visitors to the platforms where they can purchase or bid on your NFTs.
+* Provide easy access to your social media or other platforms where you engage with your community.
 
 5. Customization
 
@@ -47,10 +47,10 @@ The landing page is fully customizable, allowing you to tailor the design and co
 
 If you encounter any technical issues or errors on the landing page, consider the following steps:
 
-i. Check your HTML and CSS code for syntax errors.
-ii. Verify that all image files are correctly linked.
-iii. Ensure your web hosting provider supports the necessary technologies (HTML, CSS, JavaScript).
-iv. If the issue persists, refer to the Support and Feedback section below.
+* Check your HTML and CSS code for syntax errors.
+* Verify that all image files are correctly linked.
+* Ensure your web hosting provider supports the necessary technologies (HTML, CSS, JavaScript).
+* If the issue persists, refer to the Support and Feedback section below.
 
 7. Support and Feedback
 
