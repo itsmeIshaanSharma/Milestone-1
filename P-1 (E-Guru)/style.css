@@ -1,0 +1,211 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+          "Lucida Sans", Arial, sans-serif;
+    gap: 30px;
+        }
+
+header{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+height: 10vh;
+}
+.logo{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    font-weight: bold;
+}
+a{
+    color: #8b8b8b;
+    text-decoration: none;   
+}
+.nav{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 80px;
+}
+a:hover{
+    color: #ff5e00fd;
+}
+header>div>button{
+    padding: 15px 40px;
+    background-color: white;
+    font-weight: bold;
+    border: 1px solid black;
+}
+section{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    height: 30vh;
+}
+.left{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    background: url(Assets/curve-arrow.png) no-repeat;
+    background-position: bottom right;
+    height: 400px;
+}
+.left>div>h1{
+    font-size: 3em;
+    margin-bottom: 0;
+}
+.para{
+    color: #8b8b8b;
+    font-size: 25px;
+    border-left: 2px solid #8b8b8b;
+    padding-left: 10px;
+}
+.button1H{
+    display: none;
+}
+.button1{
+    display: flex;
+    gap: 15px;
+}
+.b1{
+    padding: 15px 30px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.G{
+    background-color: #ff5e14;
+    border-collapse: collapse;
+    border: none;
+    color: white;
+}
+.L{
+    background-color: white;
+}
+.right{
+    background: url(Assets/green-arrow.png) no-repeat, url(Assets/circle.png) no-repeat;
+    background-position: left bottom, right bottom 5%;;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    grid-template-areas: "overlap";
+    align-items: end;
+    justify-items: center;
+}
+.right>img{
+    grid-area: overlap;
+height: 50vh;
+}
+.main{
+    border-bottom-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+}
+footer{
+    background-color: #282444;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    padding: 25px 0;
+    height: 25vh;
+}
+footer>div{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;  
+    color: white; 
+}
+footer>div>div>img{
+    height: 40px;
+    width: 40px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.Expert>img{
+    background-color: #16c0a4fd;
+}
+.Online>img{
+    background-color: #f05f2a;
+}
+.Support>img{
+    background-color: #5d20ec;
+}
+.grey{
+    color: #8b8b8b;
+}
+.heading{
+    font-weight: bold;
+    font-size: 25px;
+}
+.BEST{
+    font-weight: bold;
+    font-size: 2em;
+}
+.user-profile,.menu{
+    display: none;
+}
+@media screen and (max-width : 800px) {
+        header{
+        height: auto;
+    }
+    body{
+        overflow-x: hidden;
+    }
+    .nav{
+        display: none;
+    }
+    footer{
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        position: relative;
+        height: auto;
+    }
+    header>div>button{
+        display: none;
+    }
+    .user-profile,.menu,.logo{
+        display: flex;
+    }
+    section{
+        flex-direction: column;
+        align-items: center;
+        height: auto;
+        gap: 0;
+        gap: 50px;
+    }
+   
+    .left{
+        padding-left: 10px;
+        background: none;
+       
+        height: auto;
+    }
+    footer{
+        padding-top: 50px;
+    }
+    footer>div{
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .left>div>h1{
+        font-size: 3em;
+}
+    .button1{
+        display: none;
+    }
+    .button1H{
+        display: flex;
+        align-items: start;
+        justify-content: space-evenly;
+        background: url(Assets/curve-arrow.png) no-repeat right 10% bottom 0;
+        height: 20vh;
+        gap: 15px;
+    }
+}
