@@ -1,4 +1,6 @@
-Bike Website Landing Page
+# Bike Website Landing Page
+
+# Table of Contents
 
 1. Introduction
 Welcome to the Electric Scooter! This Readme file provides essential information about the electric scooter, including its features, specifications, safety guidelines, usage instructions, maintenance tips, troubleshooting, warranty details, and support contact.

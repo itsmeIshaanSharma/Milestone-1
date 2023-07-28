@@ -1,4 +1,6 @@
-Pixbay
+# Pixbay
+
+# Table of Contents
 
 1. Introduction
 Welcome to Pixbay! Pixbay is an innovative image-sharing platform where users can discover and upload high-quality images for various purposes, such as personal projects, blogs, presentations, and more. This Readme file provides essential information about Pixbay and its features to help you get started.

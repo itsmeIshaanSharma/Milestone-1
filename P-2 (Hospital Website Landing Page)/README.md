@@ -1,4 +1,6 @@
-Hospital Website Landing Page
+# Hospital Website Landing Page
+
+# Table of Contents
 
 1. Introduction
 Welcome to the Hospital Landing Page! This landing page template is designed for medical facilities, hospitals, clinics, and healthcare providers to create an attractive and informative online presence. It offers a user-friendly interface to showcase essential information about the hospital and its services, allowing visitors to quickly find the information they need.

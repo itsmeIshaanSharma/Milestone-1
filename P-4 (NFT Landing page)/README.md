@@ -1,4 +1,6 @@
-NFT Website Landing Page 
+# NFT Website Landing Page 
+
+# Table of Contents
 
 1. Introduction
 Welcome to the NFT Landing Page! This landing page template is designed for artists, creators, and collectors to showcase and promote their Non-Fungible Tokens (NFTs) and digital artworks. With a user-friendly and visually appealing design, the NFT Landing Page allows you to present your NFT collections and attract potential buyers or enthusiasts.
